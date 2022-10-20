@@ -1,6 +1,25 @@
 
 {
   "name": "test",
+  "title": "test",
+  "description": "Hmm",
   "version": "1.0.0",
-  "private": false
+  "main": "one.json",
+  "homepage": "",
+  "author": {
+    "name": "a",
+    "url": "b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bulentv/test.git"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "browser",
+    "library"
+  ],
+  "license": "MIT",
+  "dependencies": {}
 }
